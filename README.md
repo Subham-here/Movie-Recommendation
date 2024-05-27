@@ -1,7 +1,7 @@
 # A recommender system of movies for OTT platform
 
 ## Project Overview
-Intention was to crate a content based recommender system which will suggest movies based on the 
+Intention was to crate a content based recommender system which will suggest movies based on the popularity/content
 
 ## Data Preprocessing
 ### 1.	Filtering of data
